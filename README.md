@@ -20,3 +20,11 @@ Proyecto de simulación interactiva en Pygame donde se desarrollarán agentes co
 - Definición de vértices en coordenadas locales.
 - Aplicación de rotación 2D usando una función matemática.
 - Inicialización del agente con un ángulo diferente de 0° para verificar la rotación.
+
+## Sesión 3 – Seguimiento de avance
+
+- Agente definido con vértices locales simétricos.
+- Aplicación de rotación inicial (30°).
+- Uso de posición global para traslación.
+- Movimiento automático con velocidad constante.
+- Rebote en límites considerando tamaño del agente.
