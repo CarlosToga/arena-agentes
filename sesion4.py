@@ -98,6 +98,8 @@ while corriendo:
         if evento.type == pygame.QUIT:
             corriendo = False
 
+# Control de rotación del agente con teclado
+    
     teclas = pygame.key.get_pressed()
 
     if teclas[pygame.K_LEFT]:
