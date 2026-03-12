@@ -1,3 +1,6 @@
+# Sesión 4
+# Agente con movimiento, rebote y rotación dinámica controlada con teclado
+
 import pygame
 import sys
 import math
