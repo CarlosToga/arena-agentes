@@ -116,4 +116,4 @@ while corriendo:
 pygame.quit()
 sys.exit()
 
-agrego estructura inicial del agente para sesion 4
+
