@@ -20,3 +20,13 @@ Proyecto de simulación interactiva en Pygame donde se desarrollarán agentes co
 - Definición de vértices en coordenadas locales.
 - Aplicación de rotación 2D usando una función matemática.
 - Inicialización del agente con un ángulo diferente de 0° para verificar la rotación.
+
+- ## Sesión 4 – Movimiento y Rotación
+
+Se implementa un agente gráfico utilizando pygame con:
+
+- Movimiento automático
+- Rebote en los bordes de la pantalla
+- Rotación dinámica
+- Control de rotación con teclado
+- Uso de vértices y transformaciones geométricas
